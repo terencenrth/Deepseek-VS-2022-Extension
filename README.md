@@ -4,7 +4,7 @@
 CodeAnalyzerAI is a Visual Studio Extension (VSIX) that analyzes C# code in the active editor window and provides AI-powered suggestions for improvements. This extension integrates with Visual Studio to enhance the developer experience by offering real-time code analysis and refactoring suggestions.
 
 ## 🚀 Features
-- **AI-Powered Code Analysis**: Sends the open C# code to ChatGPT for analysis and provides actionable suggestions.
+- **AI-Powered Code Analysis**: Sends the open C# code to DeepSeek for analysis and provides actionable suggestions.
 - **Tool Window Support**: Displays analysis results in a dedicated Visual Studio tool window.
 - **Custom Commands**: Easily trigger analysis via a toolbar button or context menu.
 - **Seamless Integration**: Works within the Visual Studio environment without disrupting workflow.
