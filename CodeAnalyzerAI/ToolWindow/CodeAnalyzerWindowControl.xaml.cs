@@ -70,7 +70,7 @@ namespace CodeAnalyzerAI.ToolWindow
         {
 
 
-            string apiKey = "sk-0fdfb0dae87f4f06809fcd0dfac0a9ac";
+            string apiKey = "";
             string endpoint = "https://api.deepseek.com/chat/completions";
 
            
